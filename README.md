@@ -27,4 +27,4 @@ Check out the live version here: [Recipe App]
 
 ## 👨‍💻 Author
 
-**Lovelesh Singh** - [GitHub]
+**Girish Bhatia** - [GitHub]
